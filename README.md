@@ -1,9 +1,8 @@
 # hw9
 # Описание
 
-## Использовала регулярное выражение:"найти" \n\r "заменить на" \0 - удалила все пустые строки. 
-## ![](https://github.com/yuliayakovleva/hw9/blob/master/1.jpg)
-## ![](https://github.com/yuliayakovleva/hw9/blob/master/11.jpg)
+## Использовала регулярное выражение:(^\s*\n*\r)|(\n), заменила на пустую строку - удалила все пустые строки. 
+## ![](https://github.com/yuliayakovleva/hw9/blob/master/5.jpg)
 
 
 
