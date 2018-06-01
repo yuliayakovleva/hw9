@@ -14,3 +14,11 @@
 ## Использовала регулярное выражение:(^|\s)+[Н][а-я]*(город) - Всего упоминаний Новгорода нашла:(32).
 ## ![](https://github.com/yuliayakovleva/hw9/blob/master/0Er3_kBfvFo.jpg)
 
+
+
+## Бонусное задание:
+## ![](https://github.com/yuliayakovleva/hw9/blob/master/а.jpg)
+## ![](https://github.com/yuliayakovleva/hw9/blob/master/б.jpg)
+## ![](https://github.com/yuliayakovleva/hw9/blob/master/в.jpg)
+
+
